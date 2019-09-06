@@ -1,4 +1,4 @@
-# Best_taper_ration
+# Best_Taper_Ration
 Software to calculate the optimal taper ratio
 
 飛行機の翼設計を手助けするソフトです。
